@@ -22,3 +22,5 @@ def log(amount, category, message ="", date):
     '''
     cur.execute(sql)
     conn.commit()
+
+#test
